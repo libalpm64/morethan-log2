@@ -4,7 +4,7 @@ const CONFIG = {
     name: "LostLab",
     image: "/image2vector.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "CEO / Blog publishing",
-    bio: "Keep in-formed with our blog",
+    bio: "Keep you informed with the latest cybersecurity news.",
     email: "blog@lostlab.net",
     linkedin: "",
     github: "",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Lostlab",
-    description: "Cybersecurity blog",
+    description: "Cybersecurity Redefined.",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
