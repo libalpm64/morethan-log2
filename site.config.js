@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "LostLab",
-    image: "image2vector.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/image2vector.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "CEO / Blog publishing",
     bio: "Keep in-formed with our blog",
     email: "blog@lostlab.net",
